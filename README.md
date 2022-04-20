@@ -1,5 +1,61 @@
 # Whatsapp-Qr-Code-Generator-Flask
 
+  <div class="row">
+                <div class="col-lg-12 bottom-spacing text-center">
+                    <h4 class="intro-title">
+                        Get Started
+                    </h4>
+                    <h2>
+                        <strong>Create</strong> your <strong>custom QR Code</strong> with <strong>Logo</strong>
+                    </h2>
+                </div>
+                <div class="col-lg-3 col-sm-6 bottom-spacing">
+                    <div class="number">1</div>
+                    <h3 class="h5">Set QR Content</h3>
+                    <p class="text-block">
+                        Select a content type at the top for your QR code (URL, Text, Email...). After selecting your type you will see all available options. Enter all fields that should appear when scanning your QR code. Make sure everything you enter is correct because you can’t change the content once your QR code is printed.
+                    </p>
+                </div>
+                <div class="col-lg-3 col-sm-6 bottom-spacing">
+                    <div class="number">2</div>
+                    <h3 class="h5">Customize Design</h3>
+                    <p class="text-block">
+                        You want your QR code to look unique? Set a custom color and replace the standard shapes of your QR code. The corner elements and the body can be customized individually. Add a logo to your QR code. Select it from the gallery or upload your own logo image. You can also start with one of the templates from the template gallery.
+                    </p>
+                </div>
+                <div class="col-lg-3 col-sm-6 bottom-spacing">
+                    <div class="number">3</div>
+                    <h3 class="h5">Generate QR Code</h3>
+                    <p class="text-block">
+                        Set the pixel resolution of your QR code with the slider. Click the "Create QR Code"-button to see your qr code preview. Please make sure your QR code is working correctly by scanning the preview with your QR Code scanner. Use a high resolution setting if you want to get a png code with print quality.
+                    </p>
+                </div>
+                <div class="col-lg-3 col-sm-6 bottom-spacing">
+                    <div class="number">4</div>
+                    <h3 class="h5">Download Image</h3>
+                    <p class="text-block">
+                        Now you can download the image files for your QR code as <strong>.png</strong> or <strong>.svg</strong>, <strong>.pdf</strong>, <strong>.eps</strong> vector graphic. If you want a vector format with the complete design please choose .svg. SVG is working in software like Adobe Illustrator or Inkscape. The logo and design settings currently only work for .png and .svg files.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+
+        <div class="section section-shade" id="about">
+        <div class="container-fluid">
+
+            <div class="row">
+                <div class="col-lg-10 ml-auto mr-auto text-center">
+                    <h4 class="intro-title">About</h4>
+                    <h2>The <strong>Free QR Code Generator</strong> for High Quality QR Codes</h2>
+                    <p>
+                        QRCode Monkey is one of the most popular free online qr code generators with millions of already created QR codes. The high resolution of the QR codes and the powerful design options make it one of the best free QR code generators on the web that can be used for commercial and print purposes.
+                    </p>
+                </div>
+            </div>
+
+
 </div>
                 <div class="type-bar-inner">
                     <a href="#url" class="tab" ng-class="{'active': qrcode.type==='url'}" ng-click="setTab('url')"
