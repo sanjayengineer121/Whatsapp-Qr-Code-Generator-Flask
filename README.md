@@ -42,18 +42,7 @@
     </div>
     
 
-        <div class="section section-shade" id="about">
-        <div class="container-fluid">
-
-            <div class="row">
-                <div class="col-lg-10 ml-auto mr-auto text-center">
-                    <h4 class="intro-title">About</h4>
-                    <h2>The <strong>Free QR Code Generator</strong> for High Quality QR Codes</h2>
-                    <p>
-                        QRCode Monkey is one of the most popular free online qr code generators with millions of already created QR codes. The high resolution of the QR codes and the powerful design options make it one of the best free QR code generators on the web that can be used for commercial and print purposes.
-                    </p>
-                </div>
-            </div>
+       
 
 
 </div>
